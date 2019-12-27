@@ -6,6 +6,11 @@ pkg bug test
 $ npm install
 $ npm start 
 
+> node index.js
+
+5deefcece7dce38d6d3b54f4c4757248
+
+* Run Success!
 </pre>
 
 # pkg bug
@@ -37,6 +42,7 @@ Require stack:
   pkg: true
 }
 
+* Run Fail!
 </pre>
 
 
